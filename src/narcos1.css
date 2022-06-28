@@ -1,0 +1,13 @@
+.nrcsback{
+    background-color: #0f171e;
+    min-height: 100vh;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+    
+}
+
+.nrcsepi{
+    background-color: #18222c;
+    margin-block: 25px;
+}
